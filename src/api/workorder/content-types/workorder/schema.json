@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "workorders",
+  "info": {
+    "singularName": "workorder",
+    "pluralName": "workorders",
+    "displayName": "Workorder"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "recievedBy": {
+      "type": "string"
+    }
+  }
+}
